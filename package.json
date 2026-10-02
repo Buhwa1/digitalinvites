@@ -1,0 +1,23 @@
+{
+  "name": "digitalinvites",
+  "version": "1.0.0",
+  "description": "Digital wedding invitation website",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buhwa1/digitalinvites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buhwa1/digitalinvites/issues"
+  },
+  "homepage": "https://github.com/Buhwa1/digitalinvites#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
